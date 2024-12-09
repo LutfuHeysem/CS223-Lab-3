@@ -1,0 +1,17 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/BitShifter.v,1731929618,verilog,,C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/BitShifterTestBench.v,,BitShifter,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/BitShifterTestBench.v,1731929887,verilog,,,,BitShifterTestBench,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/EightToOneMux.v,1731881954,verilog,,C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/FourToOneMux.v,,EightToOneMux,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/EightToOneMuxTestBench.v,1731931339,verilog,,,,EightToOneMuxTestBench,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/FourToOneMux.v,1731881877,verilog,,C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/FunctionF.v,,FourToOneMux,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/FunctionF.v,1732013278,verilog,,C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/TwoToFourDecoderBehavioral.v,,FunctionF,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/FunctionFTestBench.v,1732014638,verilog,,,,FunctionFTestBench,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/TwoToFourDecoderBehavioral.v,1731873580,verilog,,C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/TwoToOneMux.v,,TwoToFourDecoderBehavioral,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/TwoToFourDecoderTestBench.v,1731878099,verilog,,,,TwoToFourDecoderTestBench,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/TwoToOneMux.v,1731864192,verilog,,C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/FunctionFTestBench.v,,TwoToOneMux,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/gFunctionTestBench.v,1731930270,verilog,,,,gFunctionTestBench,,,,,,,,
+C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/gFunctionWithTwoToOneMuxBehavioral.v,1731930841,verilog,,C:/Users/LHeysemK/Desktop/CS223/Labs/Lab 3/Lab3/Lab3.srcs/sources_1/new/gFunctionTestBench.v,,gFunctionWithTwoToOneMuxBehavioral,,,,,,,,

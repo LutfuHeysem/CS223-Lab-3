@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1732017647">
+  <File Type="ROUTE-PWR" Name="TwoToFourDecoderBehavioral_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="TwoToFourDecoderBehavioral.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="TwoToFourDecoderBehavioral_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="TwoToFourDecoderBehavioral_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="TwoToFourDecoderBehavioral_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="TwoToFourDecoderBehavioral.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="TwoToFourDecoderBehavioral_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="TwoToFourDecoderBehavioral_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="TwoToFourDecoderBehavioral_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="TwoToFourDecoderBehavioral_opt.dcp"/>
+  <File Type="OPT-DRC" Name="TwoToFourDecoderBehavioral_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="TwoToFourDecoderBehavioral.hwdef"/>
+  <File Type="PWROPT-DCP" Name="TwoToFourDecoderBehavioral_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="TwoToFourDecoderBehavioral_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="TwoToFourDecoderBehavioral_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="TwoToFourDecoderBehavioral_placed.dcp"/>
+  <File Type="PLACE-IO" Name="TwoToFourDecoderBehavioral_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="TwoToFourDecoderBehavioral_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="TwoToFourDecoderBehavioral_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="TwoToFourDecoderBehavioral_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="TwoToFourDecoderBehavioral_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="TwoToFourDecoderBehavioral_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="TwoToFourDecoderBehavioral_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="TwoToFourDecoderBehavioral.bin"/>
+  <File Type="PLACE-TIMING" Name="TwoToFourDecoderBehavioral_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="TwoToFourDecoderBehavioral_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="TwoToFourDecoderBehavioral_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="TwoToFourDecoderBehavioral_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="TwoToFourDecoderBehavioral.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="TwoToFourDecoderBehavioral_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="TwoToFourDecoderBehavioral_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="TwoToFourDecoderBehavioral_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="TwoToFourDecoderBehavioral.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="TwoToFourDecoderBehavioral_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="TwoToFourDecoderBehavioral_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="TwoToFourDecoderBehavioral_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="TwoToFourDecoderBehavioral_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="TwoToFourDecoderBehavioral_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="TwoToFourDecoderBehavioral_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="TwoToFourDecoderBehavioral_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="TwoToFourDecoderBehavioral_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="TwoToFourDecoderBehavioral_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="TwoToFourDecoderBehavioral_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="TwoToFourDecoderBehavioral_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="TwoToFourDecoderBehavioral_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="TwoToFourDecoderBehavioral_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="TwoToFourDecoderBehavioral_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="TwoToFourDecoderBehavioral_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="TwoToFourDecoderBehavioral_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="TwoToFourDecoderBehavioral_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="TwoToFourDecoderBehavioral_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="TwoToFourDecoderBehavioral_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="TwoToFourDecoderBehavioral_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="TwoToFourDecoderBehavioral_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="TwoToFourDecoderBehavioral_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="TwoToFourDecoderBehavioral_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="TwoToFourDecoderBehavioral_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="TwoToFourDecoderBehavioral_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="TwoToFourDecoderBehavioral_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="TwoToFourDecoderBehavioral_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="TwoToFourDecoderBehavioral.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="TwoToFourDecoderBehavioral_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="TwoToFourDecoderBehavioral_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="TwoToFourDecoderBehavioral.nky"/>
+  <File Type="BITSTR-BMM" Name="TwoToFourDecoderBehavioral_bd.bmm"/>
+  <File Type="PDI-FILE" Name="TwoToFourDecoderBehavioral.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="TwoToFourDecoderBehavioral_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="TwoToFourDecoderBehavioral_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="TwoToFourDecoderBehavioral.rcfi"/>
+  <File Type="CFI_FILE" Name="TwoToFourDecoderBehavioral.cfi"/>
+  <File Type="RNPI_FILE" Name="TwoToFourDecoderBehavioral.rnpi"/>
+  <File Type="NPI_FILE" Name="TwoToFourDecoderBehavioral.npi"/>
+  <File Type="RBD_FILE" Name="TwoToFourDecoderBehavioral.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="TwoToFourDecoderBehavioral.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="TwoToFourDecoderBehavioral.sysdef"/>
+  <File Type="BG-BGN" Name="TwoToFourDecoderBehavioral.bgn"/>
+  <File Type="BG-DRC" Name="TwoToFourDecoderBehavioral.drc"/>
+  <File Type="RDI-RDI" Name="TwoToFourDecoderBehavioral.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="TwoToFourDecoderBehavioral_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="TwoToFourDecoderBehavioral_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/new/TwoToFourDecoderBehavioral.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab3/Lab3.srcs/sources_1/new/TwoToFourDecoderBehavioral.v"/>
+        <Attr Name="ImportTime" Val="1731873580"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="TwoToFourDecoderBehavioral"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/CS223/Basys3.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Basys3.xdc"/>
+        <Attr Name="ImportTime" Val="1732016923"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/TwoToFourDecoderBehavioral.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
